@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubra-ghafoor" alt="kubra-ghafoor" /></a> </p>
 
-- 🔭 I’m currently working on **html,Css,java script**
+- 🔭 I’m currently working on **HTML,CSS,javascript,react js**
 
 - 🌱 I’m currently learning **web development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **java,c++**
+- 💬 Ask me about **java,javascript**
 
 - 📫 How to reach me **kubrapalijo@gmail.com**
 
